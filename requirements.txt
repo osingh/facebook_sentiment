@@ -1,4 +1,3 @@
-Facebook==0.0
 facebook-sdk==1.0.0-alpha
 hashlib==20081119
 httplib2==0.7.2
